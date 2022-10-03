@@ -1,5 +1,5 @@
 #! /bin/sh
-
+#Quinn was here
 #initialize variable
 reverse=""
 
@@ -32,3 +32,4 @@ echo "$rc
 
 echo $name >$1.rc.txt
 echo $rc >>$1.rc.txt
+
