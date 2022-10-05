@@ -15,7 +15,7 @@ len=${#sequence}
 echo "Length: $len"
 
 #use rc variable set to rev command and tr to do a reverse compliment of the input file. 
-rc=`echo $sequence | rev | tr 'ATGC' 'TACG'`
+rc=`echo $sequence | rev | tr 'ATGCatgc' 'TACGtacg'`
 
 echo "$sequence
 $reverse
