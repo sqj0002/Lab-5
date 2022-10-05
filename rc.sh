@@ -1,9 +1,4 @@
 #! /bin/sh
-#Quinn was here AGAIN
-#Abby A was here
-#Quinn was here
-#Taoran was here
-#Abbey P was here
 
 #initialize variable
 reverse=""
@@ -19,11 +14,8 @@ len=${#sequence}
 
 echo "Length: $len"
 
-#loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#use rc variable set to rev command and tr to do a reverse compliment of the input file. 
+rc=`echo $sequence | rev | tr 'ATGC' 'TACG'`
 
 echo "$sequence
 $reverse
