@@ -1,7 +1,10 @@
 #! /bin/sh
+#Quinn was here AGAIN
 #Abby A was here
 #Quinn was here
 #Taoran was here
+#Abbey P was here
+
 #initialize variable
 reverse=""
 
