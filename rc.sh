@@ -1,10 +1,8 @@
 #! /bin/sh
-<<<<<<< HEAD
 #Quinn was here AGAIN
-=======
 #Abby A was here
 #Quinn was here
->>>>>>> 11b725875f2bb03c0380fd50a6269860e4bdd646
+#Abbey P was here
 #initialize variable
 reverse=""
 
