@@ -1,5 +1,14 @@
 #! /bin/sh
 
+echo "Please input readable fasta file with the file extension .fa; use the tab>
+read -e fasta_file
+
+if [ $# -lt 1 ] || [ $# -gt 1 ];then
+echo "Error: Incorrect number of files. Terminating Program."
+exit
+else echo "$fasta_file uploaded. Processing..."
+fi
+
 #initialize variable
 reverse=""
 
