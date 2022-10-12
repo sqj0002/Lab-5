@@ -1,0 +1,4 @@
+I'm not sure what does manage my documents are supposed to mean, I put files in the directory of the lab or project I did, and us ls to make sure where it is. There were only few codes we are using a lot in the past lab, but some of the command have different way to use with -letter after them.
+I believe only the script can stand up a reproducibility test, since during most of my work, I use nano and work on the code or text by myself, and in this case, it can only be repeat with the present of me.
+I think non-reproducibile research will cause a lot of touble, since the main reason we use programming in biology is to make calculation and sorting easier than we do it by ourself, keep programing new code is very tiring. And not keeping the program consistency might cause different error.
+I don't think genetic have a lot of difference with these two field, except for there will be more graphing? in my field.
